@@ -7,6 +7,7 @@ A small ESP8266 controller with step-down for use with [WLED](https://github.com
 This board was designed for a christmas lightshow and 17 of them were used. They were supplied from a central 24V power supply and the supply was chained from prop to prop. This made wireing very easy. 
 The included 5V regulator supplies up to 5A which is pretty enough for some light props.
 The [KICAD](https://www.kicad.org) files include LCSC component numbers for direct ordering at [JLCPCB](https://jlcpcb.com)
+The board shape is made for some cheap enclosures
 
 ![wled-desc](https://github.com/3komma3volt/wled-controller/blob/main/images/description.png)
 
